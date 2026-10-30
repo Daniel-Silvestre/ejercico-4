@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(4, 59, 59);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+.contenedor{
+    margin-top: 80px;
+}
+h2{
+    font-size: 50px;
+    color: blue;
+}
+button{
+    padding: 12px 20px;
+    margin: 5px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    box-shadow: inset 0 0 5px rgba(0, 0, 0, 0.3);
+}
+#sumar {
+    background-color: rgb(58, 13, 100);
+    color: white;
+}
+#reiniciar{
+    background-color: darkblue;
+    color: white;
+}
